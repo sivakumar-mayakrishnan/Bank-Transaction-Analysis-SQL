@@ -23,9 +23,9 @@ Analyze customer, account, and transaction data to generate meaningful business 
 
 ## 🔗 Entity Relationship
 
-CUSTOMERS → ACCOUNTS → TRANSACTIONS  
-BRANCHES → ACCOUNTS
+## Entity Relationship Diagram
 
+![ER Diagram](ER_Diagram.png)
 ## 🧠 SQL Concepts Used
 - Joins
 - Subqueries
